@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.1",
-    "notes":  "Nuova release v1.0.1: risoluzione dinamica nome autore scontrino da ID, selezione colore casa senza etichetta \u0027Attiva\u0027, tutorial guidato interattivo (aggiunta, modifica prolungata e dispensa).",
+    "version":  "1.0.2",
+    "notes":  "Fix notifiche scadenze: pulsante \u0027Prodotto finito\u0027 rimuove l\u0027elemento dalla dispensa e \u0027Ricordamelo piu tardi\u0027 posticipa l\u0027avviso cancellando subito la notifica",
     "releasePage":  "https://github.com/PM461/smart_spesa_releases/releases/latest",
     "apkUrl":  "https://github.com/PM461/smart_spesa_releases/releases/latest/download/smart-spesa.apk",
     "releaseDate":  "2026-10-18",
-    "buildNumber":  2
+    "buildNumber":  3
 }
