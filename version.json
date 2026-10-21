@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
-    "notes":  "Smart Spesa v1.0.4 (Build 5).\n\n### Novità\n- Aggiornamento in-app automatico (OTA): download progressivo direttamente dentro l\u0027app con barra di avanzamento e apertura istantanea dell\u0027installer Android.\n- Risoluzione automatica dei reindirizzamenti CDN GitHub/Azure per download ad altissima velocità.\n- Integrazione FileProvider Android per installazione sicura e senza passare dal browser.\n\n**Download:** Scarica smart-spesa.apk per aggiornare l\u0027app.",
-    "releasePage":  "https://github.com/PM461/smart_spesa_releases/releases/latest",
-    "apkUrl":  "https://github.com/PM461/smart_spesa_releases/releases/latest/download/smart-spesa.apk",
-    "releaseDate":  "2026-10-21",
-    "buildNumber":  5
+  "releasePage": "https://github.com/PM461/smart_spesa_releases/releases/latest",
+  "notes": "### 🚀 Novità Smart Spesa v1.0.5\n\n- **🌟 Presentazione Onboarding**: Nuova presentazione interattiva dell'app prima del login con anteprima di tutte le funzionalità chiave (accessibile anche dal login).\n- **🔐 Recupero Password & OTP**: Aggiunto reset password via email e verifica immediata tramite codice OTP a 6 cifre.\n- **⚙️ Cambio Password in-App**: Possibilità di aggiornare la propria password di accesso direttamente dalla sezione sicurezza delle impostazioni.\n- **🗑️ Eliminazione Account GDPR**: Gestione completa della cancellazione del proprio account utente, disiscrizione dai gruppi famiglia e pulizia dati Firestore.\n- **📸 Condivisione Scontrini come Foto**: Generazione di un'immagine ad alta risoluzione della ricevuta di spesa con lista articoli, totali e divisione quote, pronta per WhatsApp e app di messaggistica.\n- **🥗 Assistente AI Nutrizionale**: Nuovo studio prompt con suggerimenti nutrizionali personalizzati in base a numero componenti, età, genere, peso, altezza, intolleranze e scorte in dispensa.\n- **📊 Statistiche & Grafici Spesa**: Hub di analisi avanzata con grafici a torta e a barre per spese mensili, categorie e tendenze.\n- **🛠️ Stabilizzazione & Performance**: Fix compatibilità libreria fl_chart e compilazione release ottimizzata.",
+  "apkUrl": "https://github.com/PM461/smart_spesa_releases/releases/latest/download/smart-spesa.apk",
+  "buildNumber": 6,
+  "version": "1.0.5",
+  "releaseDate": "2026-10-21"
 }
