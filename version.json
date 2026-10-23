@@ -1,8 +1,8 @@
 {
-  "notes": "### ?? Novita Smart Spesa v1.0.7 (Build 8)\n\n- **?? Semplificazione Unita di Misura**: Rimosse le unita di peso/volume (kg, g, l, ml) dalla sezione quantita '#' per evitare duplicazioni, lasciando unicamente 'pz' e 'conf'. Tutte le pesature e carature si gestiscono nella sezione dedicata 'Pesatura standard'.\n- **??? Badge Spesa & Dispensa in Home**:\n  - Icona dinamica con timer/giorni mancanti alla prossima spesa sincronizzata con le preferenze di notifica (nascosta se le notifiche promemoria sono disattivate).\n  - Icona di allerta con conteggio dei prodotti scaduti in dispensa (nascosta se non ci sono prodotti scaduti).\n- **?? Calcolatrice Spesa con Sconti Rapidi**: Tasto calcolatrice dedicato nella schermata della spesa con sconti immediati dal -10% al -70% tipici del supermercato.\n- **?? Allegati Multimediali Scontrini**: Possibilita di allegare foto dello scontrino cartaceo, codici a barre, bollini fedelta o memo vocali compressi e consultabili in qualsiasi momento.\n- **? Selettore Emoji Avanzato**: Piu categorie e centinaia di emoji cibo (pesce, zucca, verdure, pane, ecc.) selezionabili direttamente all'inserimento del prodotto.",
-  "version": "1.0.7",
-  "buildNumber": 8,
-  "apkUrl": "https://github.com/PM461/smart_spesa_releases/releases/download/v1.0.7/smart-spesa-v1.0.7.apk",
-  "releaseDate": "2026-10-23",
-  "releasePage": "https://github.com/PM461/smart_spesa_releases/releases/tag/v1.0.7"
+    "version":  "1.0.8",
+    "notes":  "Release ufficiale Smart Spesa v1.0.8.\n\n### Novita \u0026 Miglioramenti\n- Aggiornamenti prestazionali e correzioni di stabilita.\n- Gestione dispensa e lista spesa sincronizzate.\n\n**Download:** Scarica smart-spesa.apk per installare l\u0027applicazione su qualsiasi smartphone Android (8.0+).",
+    "releasePage":  "https://github.com/PM461/smart_spesa_releases/releases/tag/v1.0.8",
+    "apkUrl":  "https://github.com/PM461/smart_spesa_releases/releases/download/v1.0.8/smart-spesa-v1.0.8.apk",
+    "releaseDate":  "2026-10-23",
+    "buildNumber":  9
 }
