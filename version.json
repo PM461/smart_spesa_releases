@@ -1,8 +1,8 @@
 {
-  "releaseDate": "2026-10-21",
-  "apkUrl": "https://github.com/PM461/smart_spesa_releases/releases/download/v1.0.6/smart-spesa-v1.0.6.apk",
-  "releasePage": "https://github.com/PM461/smart_spesa_releases/releases/tag/v1.0.6",
-  "version": "1.0.6",
-  "notes": "### 🚀 Novità Smart Spesa v1.0.6\n\n- **🎨 Nuovo Selettore Emoji Cibo & Orto**: Integrazione di un selettore completo con scorciatoie immediate a portata di tocco per 🐟 Pesce, 🎃 Zucca, 🥩 Carne, 🥦 Verdura, 🍎 Frutta, 🧀 Latticini, 🍞 Pane e 10 categorie complete.\n- **🥫 Supporto Emoji Prodotti in Dispensa**: Ora puoi scegliere, cambiare o assegnare l'emoji direttamente quando aggiungi o modifichi un prodotto in Dispensa, con auto-suggerimento durante la digitazione e visualizzazione dell'avatar emoji direttamente sulle card.\n- **📊 Pulizia Schermata Grafici**: Rimossi i box dei consigli testuali per dare massimo risalto a grafici a barre, grafici a torta e statistiche pulite.\n- **🧾 Scontrini Ottimizzati**: Rimosso il pulsante doppio di condivisione negli scontrini espansi, mantenendo la condivisione rapida della ricevuta direttamente dall'header.\n- **🔄 Aggiornamenti OTA & Versioning**: Sincronizzata la versione v1.0.6 (Build 7) per un aggiornamento pulito e senza conflitti di cache.",
-  "buildNumber": 7
+  "notes": "### ?? Novita Smart Spesa v1.0.7 (Build 8)\n\n- **?? Semplificazione Unita di Misura**: Rimosse le unita di peso/volume (kg, g, l, ml) dalla sezione quantita '#' per evitare duplicazioni, lasciando unicamente 'pz' e 'conf'. Tutte le pesature e carature si gestiscono nella sezione dedicata 'Pesatura standard'.\n- **??? Badge Spesa & Dispensa in Home**:\n  - Icona dinamica con timer/giorni mancanti alla prossima spesa sincronizzata con le preferenze di notifica (nascosta se le notifiche promemoria sono disattivate).\n  - Icona di allerta con conteggio dei prodotti scaduti in dispensa (nascosta se non ci sono prodotti scaduti).\n- **?? Calcolatrice Spesa con Sconti Rapidi**: Tasto calcolatrice dedicato nella schermata della spesa con sconti immediati dal -10% al -70% tipici del supermercato.\n- **?? Allegati Multimediali Scontrini**: Possibilita di allegare foto dello scontrino cartaceo, codici a barre, bollini fedelta o memo vocali compressi e consultabili in qualsiasi momento.\n- **? Selettore Emoji Avanzato**: Piu categorie e centinaia di emoji cibo (pesce, zucca, verdure, pane, ecc.) selezionabili direttamente all'inserimento del prodotto.",
+  "version": "1.0.7",
+  "buildNumber": 8,
+  "apkUrl": "https://github.com/PM461/smart_spesa_releases/releases/download/v1.0.7/smart-spesa-v1.0.7.apk",
+  "releaseDate": "2026-10-23",
+  "releasePage": "https://github.com/PM461/smart_spesa_releases/releases/tag/v1.0.7"
 }
