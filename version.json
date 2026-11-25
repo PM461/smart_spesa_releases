@@ -1,8 +1,8 @@
 {
-    "version": "1.1.0",
-    "buildNumber": 13,
-    "releaseDate": "2026-11-22",
-    "apkUrl": "https://github.com/PM461/smart_spesa_releases/releases/download/v1.1.0/smart-spesa-v1.1.0.apk",
-    "releasePage": "https://github.com/PM461/smart_spesa_releases/releases/tag/v1.1.0",
-    "notes": "### Novita v1.1.0 (Aggiornamento Consigliato)\n- Nuova Home Screen (v4.1 Editorial) con temi dinamici e sezione Ricettario.\n- Nuovo Ricettario completo: 8.574 ricette offline in italiano, ricerca inversa Da Dispensa, quaderno personale con foto compressa, dosi scalabili per persone e condivisione foto + codice.\n- Restyle Lista della Spesa (Linear Craft), Dispensa più compatta e oltre 200 categorie automatiche.\n- Storico Scontrini (Bento Wallet): ripartizione speso per persona, loghi supermercati, modifica scontrino.\n- Nuove Impostazioni (v4.2), Dati Personali (fix salvataggio dati) e Impostazioni Casa moderne."
+  "apkUrl": "https://github.com/PM461/smart_spesa_releases/releases/download/v1.1.1/smart-spesa-v1.1.1.apk",
+  "notes": "### Novita v1.1.1 (Build 14)\n- Nuovo Brand Vettoriale (Logo Esteso v2, Icona App su sfondo bianco, icone Frigo, Freezer, Credenza e Barcode 1D).\n- Ricettario: Calorie (kcal), grafico Macronutrienti, calcolo automatico Open Food Facts, tasto Randomizza e sezione Da Dispensa istantanea ordinata per copertura ingredienti.\n- Dispensa: modifica con matita e selezione multipla con spostamento/eliminazione in blocco.\n- Home con saluto randomico orario, tasto Copia Risultato nella calcolatrice e fix navigazione tasto indietro / Volantini.",
+  "buildNumber": 14,
+  "releasePage": "https://github.com/PM461/smart_spesa_releases/releases/tag/v1.1.1",
+  "version": "1.1.1",
+  "releaseDate": "2026-11-25"
 }
